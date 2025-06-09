@@ -1,0 +1,57 @@
+name: 🛠️ Refatoração/Melhoria de Código
+description: Sugira melhorias no código existente.
+title: '[REFATORAÇÃO] Breve descrição da melhoria de código'
+labels:
+  - refatoração
+  - código
+assignees: []
+
+body:
+  - type: input
+    id: local_codigo
+    attributes:
+      label: Qual parte do código precisa de refatoração ou melhoria?
+      description: Indique o arquivo, função ou módulo específico.
+      placeholder: Ex. src/utils/helpers.js - função formatDate
+    validations:
+      required: true
+
+  - type: textarea
+    id: problema_atual
+    attributes:
+      label: Qual é o problema atual?
+      description: Descreva o que há de errado com o código existente. É difícil de ler, ineficiente, não segue padrões, etc.?
+      placeholder: >
+        Ex. A função formatDate possui muita lógica aninhada e não lida bem com diferentes formatos de data de entrada, sendo difícil de manter.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Proposta de Melhoria
+      description: Descreva como o código pode ser melhorado.
+      placeholder: >
+        Ex. Refatorar a função formatDate para usar a biblioteca date-fns, tornando-a mais robusta, legível e padronizada.
+    validations:
+      required: true
+
+  - type: textarea
+    id: beneficios
+    attributes:
+      label: Benefícios Esperados
+      description: Quais são os benefícios de aplicar esta melhoria?
+      placeholder: >
+        Ex. Aumentar a legibilidade e manutenibilidade do código, reduzir a chance de bugs relacionados a datas e padronizar o tratamento de datas no projeto.
+    validations:
+      required: true
+
+  - type: textarea
+    id: riscos
+    attributes:
+      label: Riscos ou Considerações (Opcional)
+      description: Existem riscos conhecidos ou pontos a serem considerados antes de aplicar esta melhoria?
+      placeholder: >
+        Ex. Requer a instalação de uma nova dependência (date-fns).
+    validations:
+      required: false

@@ -1,0 +1,36 @@
+name: 🧠 Melhoria de Processo
+description: Sugira melhorias em processos internos, rotinas ou fluxos de trabalho.
+title: '[PROCESSO] Breve descrição da sugestão de melhoria'
+labels: ['melhoria', 'processo']
+body:
+  - type: textarea
+    id: processo
+    attributes:
+      label: Qual processo pode ser melhorado?
+      placeholder: Ex: Coleta semanal de dados comerciais via planilha manual
+    validations:
+      required: true
+
+  - type: textarea
+    id: problema
+    attributes:
+      label: Qual é o problema atual?
+      placeholder: Ex: O processo é suscetível a erros e causa retrabalho semanal.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Qual sua sugestão de melhoria?
+      placeholder: Ex: Criar uma automação para capturar os dados direto do sistema de CRM.
+    validations:
+      required: true
+
+  - type: textarea
+    id: impacto
+    attributes:
+      label: Benefícios esperados
+      placeholder: Ex: Economia de 4 horas por semana, padronização dos dados, redução de erros
+    validations:
+      required: false

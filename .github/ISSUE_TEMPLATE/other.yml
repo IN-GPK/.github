@@ -1,0 +1,20 @@
+name: 📝 Outro tipo de solicitação
+description: Quando nenhuma outra opção se aplica.
+title: '[OUTRO] Breve descrição da solicitação'
+labels: ['pendente', 'triagem']
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descreva sua solicitação
+      placeholder: Ex: Precisamos revisar o cronograma de entrega do projeto XPTO.
+    validations:
+      required: true
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional (opcional)
+      placeholder: Qualquer detalhe adicional ou histórico que ajude a entender sua demanda.
+    validations:
+      required: false

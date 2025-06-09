@@ -1,0 +1,48 @@
+name: 📝 Tarefa
+description: Uma tarefa geral a ser realizada
+title: '[TAREFA] Breve descrição da tarefa'
+labels:
+  - tarefa
+  - pendente
+assignees: []
+
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Qual é a tarefa?
+      description: Descreva a tarefa de forma clara e objetiva. Qual é o objetivo dela?
+      placeholder: >
+        Ex. Atualizar a documentação da API para incluir os novos endpoints de autenticação.
+    validations:
+      required: true
+
+  - type: textarea
+    id: passos
+    attributes:
+      label: Passos para realizar a tarefa (Opcional)
+      description: Liste os passos necessários para concluir a tarefa.
+      placeholder: |
+        1. [ ] Revisar os endpoints de autenticação existentes.
+        2. [ ] Adicionar exemplos de requisição e resposta.
+        3. [ ] Publicar a documentação atualizada.
+    validations:
+      required: false
+
+  - type: textarea
+    id: criterios
+    attributes:
+      label: Critérios de Conclusão
+      description: O que define que esta tarefa foi concluída com sucesso?
+      placeholder: >
+        Ex. A documentação da API está atualizada e disponível para consulta, refletindo os endpoints de autenticação mais recentes.
+    validations:
+      required: true
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional
+      description: Adicione qualquer outro contexto relevante para a tarefa aqui.
+    validations:
+      required: false

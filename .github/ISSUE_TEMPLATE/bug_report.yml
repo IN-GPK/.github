@@ -1,0 +1,77 @@
+name: 🐛 Relato de Bug
+description: Reporte um erro para nos ajudar a melhorar
+title: '[BUG] Breve descrição do problema'
+labels:
+  - bug
+  - prioritário
+assignees: []
+
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descreva o bug
+      description: Uma descrição clara e concisa do que é o bug.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduzir
+    attributes:
+      label: Para reproduzir
+      description: Passos para reproduzir o comportamento.
+      placeholder: |
+        1. Vá para '...'
+        2. Clique em '....'
+        3. Role para '....'
+        4. Veja o erro
+    validations:
+      required: true
+
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Comportamento esperado
+      description: Uma descrição clara e concisa do que você esperava que acontecesse.
+    validations:
+      required: true
+
+  - type: textarea
+    id: capturas
+    attributes:
+      label: Capturas de tela (Opcional)
+      description: Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
+    validations:
+      required: false
+
+  - type: input
+    id: sistema
+    attributes:
+      label: Sistema Operacional
+      placeholder: Ex. Windows 10, macOS Ventura, Ubuntu 22.04
+    validations:
+      required: true
+
+  - type: input
+    id: navegador
+    attributes:
+      label: Navegador
+      placeholder: Ex. Chrome, Firefox, Edge, Safari
+    validations:
+      required: true
+
+  - type: input
+    id: versao
+    attributes:
+      label: Versão do Projeto/Aplicativo
+      placeholder: Ex. v1.2.3
+    validations:
+      required: true
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional
+      description: Adicione qualquer outro contexto sobre o problema aqui.
+    validations:
+      required: false

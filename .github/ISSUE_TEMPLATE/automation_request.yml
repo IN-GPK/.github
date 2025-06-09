@@ -1,0 +1,37 @@
+name: 🤖 Solicitação de Automação
+description: Peça uma automação para um processo manual repetitivo.
+title: '[AUTOMAÇÃO] Breve descrição do processo a ser automatizado'
+labels: ['automação', 'pendente']
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Qual é o processo atual?
+      description: Descreva o processo que hoje é feito manualmente.
+      placeholder: Ex: Coletar dados de vendas da plataforma X e consolidar em planilha Y.
+    validations:
+      required: true
+
+  - type: textarea
+    id: frequencia
+    attributes:
+      label: Com que frequência esse processo é realizado?
+      placeholder: Ex: Diariamente às 08h, semanalmente às segundas
+    validations:
+      required: false
+
+  - type: textarea
+    id: impacto
+    attributes:
+      label: Qual o impacto da automação?
+      placeholder: Ex: Economia de 3h semanais, redução de erros de digitação
+    validations:
+      required: false
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional
+      placeholder: Ex: Existe um script ou planilha inicial que pode ser usado como base?
+    validations:
+      required: false

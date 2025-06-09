@@ -1,0 +1,28 @@
+name: 🧹 Limpeza ou Padronização de Dados
+description: Solicite correções, normalizações ou ajustes em bases de dados.
+title: '[DADOS] Requisição de limpeza ou padronização'
+labels: ['dados', 'limpeza']
+body:
+  - type: textarea
+    id: base
+    attributes:
+      label: Base ou arquivo afetado
+      placeholder: Ex: Base de clientes da regional Sul (planilha ou tabela no BI)
+    validations:
+      required: true
+
+  - type: textarea
+    id: problema
+    attributes:
+      label: Problema identificado
+      placeholder: Ex: Campos com nomes duplicados, uso inconsistente de maiúsculas/minúsculas
+    validations:
+      required: true
+
+  - type: textarea
+    id: sugestao
+    attributes:
+      label: Sugestão de correção
+      placeholder: Ex: Padronizar todos os nomes de cliente com capitalização correta
+    validations:
+      required: false

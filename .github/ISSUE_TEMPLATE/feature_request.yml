@@ -1,0 +1,58 @@
+name: 🚀 Proposta de Funcionalidade
+description: Sugira uma ideia para uma nova funcionalidade
+title: '[FUNC] Breve título descritivo da funcionalidade'
+labels:
+  - melhoria
+  - pendente
+assignees: []
+
+body:
+  - type: textarea
+    id: necessidade_funcionalidade
+    attributes:
+      label: Essa funcionalidade é sobre o que?
+      description: Descreva claramente a necessidade desta funcionalidade e o problema que ela resolve.
+      placeholder: >
+        Ex. Precisamos de um módulo para gerenciamento de usuários, pois o controle manual atual está propenso a erros e consome muito tempo.
+    validations:
+      required: true
+
+  - type: textarea
+    id: detalhes_funcionalidade
+    attributes:
+      label: Mais sobre a funcionalidade em si
+      description: Descreva detalhadamente a funcionalidade proposta. Como ela deve funcionar? Quais são os requisitos esperados?
+      placeholder: >
+        Ex. O módulo de gerenciamento de usuários deve permitir cadastrar, editar, excluir e visualizar usuários, além de associar permissões de acesso específicas a cada um.
+    validations:
+      required: true
+
+  - type: textarea
+    id: casos_uso
+    attributes:
+      label: Casos de Uso (Opcional)
+      description: Se aplicável, descreva cenários de como essa funcionalidade seria utilizada.
+      placeholder: >
+        Ex. Um administrador de sistema acessa o módulo para cadastrar um novo funcionário e atribuir a ele permissões de acesso ao sistema de faturamento.
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: Alternativas Consideradas
+      description: Descrição clara e concisa de quaisquer soluções ou funcionalidades alternativas que você considerou.
+      placeholder: >
+        Ex. Consideramos manter o controle de usuários em uma planilha, mas isso não oferece a segurança e a rastreabilidade necessárias.
+    validations:
+      required: true
+
+  - type: textarea
+    id: contexto_adicional
+    attributes:
+      label: Contexto Adicional
+      description: Adicione qualquer outro contexto ou capturas de tela sobre a solicitação da funcionalidade aqui.
+      placeholder: >
+        Ex. Link para um rascunho de UI/UX, diagramas, etc.
+    validations:
+      required: false

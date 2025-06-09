@@ -1,0 +1,48 @@
+name: 📊 Novo Relatório ou Dashboard BI
+description: Solicitação para criação de um novo relatório/dash em Power BI, Data Studio ou similares.
+title: '[RELATÓRIO] Breve descrição do relatório ou dashboard'
+labels: ['bi', 'relatório']
+body:
+  - type: input
+    id: objetivo
+    attributes:
+      label: Qual o objetivo do relatório?
+      placeholder: Ex: Monitorar os indicadores de conversão mensal por setor.
+    validations:
+      required: true
+
+  - type: textarea
+    id: fontes-dados
+    attributes:
+      label: Fontes de dados
+      description: Liste as origens dos dados necessárias para o relatório.
+      placeholder: Ex: Planilha de vendas, Banco MySQL, API interna
+    validations:
+      required: true
+
+  - type: textarea
+    id: visualizacoes
+    attributes:
+      label: Visualizações desejadas
+      description: Quais gráficos ou KPIs devem estar presentes?
+      placeholder: Ex: Gráfico de barras com total de vendas por mês, KPI de faturamento total
+    validations:
+      required: false
+
+  - type: textarea
+    id: publico
+    attributes:
+      label: Público-alvo
+      description: Quem vai usar este relatório?
+      placeholder: Ex: Diretoria de Vendas, Equipe de Operações
+    validations:
+      required: false
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional
+      description: Alguma informação extra relevante para a criação?
+      placeholder: Ex: Existe um modelo semelhante já utilizado pela equipe comercial?
+    validations:
+      required: false

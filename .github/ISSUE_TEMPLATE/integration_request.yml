@@ -7,7 +7,7 @@ body:
     id: origem
     attributes:
       label: Origem dos dados
-      placeholder: Ex: API RD Station, Banco de dados ERP
+      placeholder: "Ex: API RD Station, Banco de dados ERP"
     validations:
       required: true
 
@@ -15,7 +15,7 @@ body:
     id: destino
     attributes:
       label: Destino dos dados
-      placeholder: Ex: Banco PostgreSQL, Planilha do Google Sheets
+      placeholder: "Ex: Banco PostgreSQL, Planilha do Google Sheets"
     validations:
       required: true
 
@@ -23,7 +23,7 @@ body:
     id: tipo-dados
     attributes:
       label: Quais dados devem ser integrados?
-      placeholder: Ex: Nome do lead, status de venda, data de conversão
+      placeholder: "Ex: Nome do lead, status de venda, data de conversão"
     validations:
       required: true
 
@@ -31,7 +31,7 @@ body:
     id: frequencia
     attributes:
       label: Qual a frequência dessa integração?
-      placeholder: Ex: A cada 30 minutos, diariamente
+      placeholder: "Ex: A cada 30 minutos, diariamente"
     validations:
       required: false
 
@@ -39,6 +39,6 @@ body:
     id: contexto
     attributes:
       label: Contexto adicional
-      placeholder: Ex: Existe autenticação por token, precisamos armazenar logs
+      placeholder: "Ex: Existe autenticação por token, precisamos armazenar logs"
     validations:
       required: false

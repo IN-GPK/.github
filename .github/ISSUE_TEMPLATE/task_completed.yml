@@ -3,7 +3,6 @@ description: Use para marcar a conclusão de uma tarefa ou funcionalidade.
 title: '[CONCLUÍDO] Breve descrição da tarefa/funcionalidade concluída'
 labels:
   - concluído
-  - milestone
 assignees: []
 
 body:

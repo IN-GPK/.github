@@ -1,7 +1,7 @@
 name: 🔌 Integração com API ou Base de Dados
 description: Solicitação de integração entre sistemas internos e externos.
 title: '[INTEGRAÇÃO] Breve descrição da integração'
-labels: ['integração', 'api', 'dados']
+labels: ['integração', 'dados']
 body:
   - type: textarea
     id: origem

@@ -45,28 +45,12 @@ body:
       required: false
 
   - type: input
-    id: sistema
-    attributes:
-      label: Sistema Operacional
-      placeholder: Ex. Windows 10, macOS Ventura, Ubuntu 22.04
-    validations:
-      required: true
-
-  - type: input
-    id: navegador
-    attributes:
-      label: Navegador
-      placeholder: Ex. Chrome, Firefox, Edge, Safari
-    validations:
-      required: true
-
-  - type: input
     id: versao
     attributes:
-      label: Versão do Projeto/Aplicativo
+      label: Versão do Projeto/Aplicativo (Opcional)
       placeholder: Ex. v1.2.3
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: contexto

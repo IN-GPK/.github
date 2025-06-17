@@ -1,7 +1,7 @@
 name: 📊 Novo Relatório ou Dashboard BI
 description: Solicitação para criação de um novo relatório/dash em Power BI, Data Studio ou similares.
 title: '[RELATÓRIO] Breve descrição do relatório ou dashboard'
-labels: ['bi', 'relatório']
+labels: ['bi']
 body:
   - type: input
     id: objetivo

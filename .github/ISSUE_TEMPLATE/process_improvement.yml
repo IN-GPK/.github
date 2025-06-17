@@ -1,7 +1,7 @@
 name: 🧠 Melhoria de Processo
 description: Sugira melhorias em processos internos, rotinas ou fluxos de trabalho.
 title: '[PROCESSO] Breve descrição da sugestão de melhoria'
-labels: ['melhoria', 'processo']
+labels: ['melhoria']
 body:
   - type: textarea
     id: processo

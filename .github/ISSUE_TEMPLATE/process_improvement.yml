@@ -7,7 +7,7 @@ body:
     id: processo
     attributes:
       label: Qual processo pode ser melhorado?
-      placeholder: Ex: Coleta semanal de dados comerciais via planilha manual
+      placeholder: "Ex: Coleta semanal de dados comerciais via planilha manual"
     validations:
       required: true
 
@@ -15,7 +15,7 @@ body:
     id: problema
     attributes:
       label: Qual é o problema atual?
-      placeholder: Ex: O processo é suscetível a erros e causa retrabalho semanal.
+      placeholder: "Ex: O processo é suscetível a erros e causa retrabalho semanal."
     validations:
       required: true
 
@@ -23,7 +23,7 @@ body:
     id: proposta
     attributes:
       label: Qual sua sugestão de melhoria?
-      placeholder: Ex: Criar uma automação para capturar os dados direto do sistema de CRM.
+      placeholder: "Ex: Criar uma automação para capturar os dados direto do sistema de CRM."
     validations:
       required: true
 
@@ -31,6 +31,6 @@ body:
     id: impacto
     attributes:
       label: Benefícios esperados
-      placeholder: Ex: Economia de 4 horas por semana, padronização dos dados, redução de erros
+      placeholder: "Ex: Economia de 4 horas por semana, padronização dos dados, redução de erros"
     validations:
       required: false

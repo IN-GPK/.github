@@ -1,7 +1,7 @@
 name: 📝 Outro tipo de solicitação
 description: Quando nenhuma outra opção se aplica.
 title: '[OUTRO] Breve descrição da solicitação'
-labels: ['pendente', 'triagem']
+labels: ['pendente']
 body:
   - type: textarea
     id: descricao

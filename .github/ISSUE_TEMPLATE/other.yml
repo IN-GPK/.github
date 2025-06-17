@@ -7,7 +7,7 @@ body:
     id: descricao
     attributes:
       label: Descreva sua solicitação
-      placeholder: Ex: Precisamos revisar o cronograma de entrega do projeto XPTO.
+      placeholder: Precisamos revisar o cronograma de entrega do projeto XPTO.
     validations:
       required: true
 

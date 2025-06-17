@@ -1,13 +1,17 @@
 name: 🧹 Limpeza ou Padronização de Dados
 description: Solicite correções, normalizações ou ajustes em bases de dados.
 title: '[DADOS] Requisição de limpeza ou padronização'
-labels: ['dados', 'limpeza']
+labels: 
+  - 'dados'
+  - 'limpeza'
+assignees: []
+
 body:
   - type: textarea
     id: base
     attributes:
       label: Base ou arquivo afetado
-      placeholder: Ex: Base de clientes da regional Sul (planilha ou tabela no BI)
+      placeholder: "Ex: Base de clientes da regional Sul (planilha ou tabela no BI)"
     validations:
       required: true
 

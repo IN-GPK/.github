@@ -8,7 +8,7 @@ body:
     attributes:
       label: Qual é o processo atual?
       description: Descreva o processo que hoje é feito manualmente.
-      placeholder: Ex: Coletar dados de vendas da plataforma X e consolidar em planilha Y.
+      placeholder: "Ex: Coletar dados de vendas da plataforma X e consolidar em planilha Y."
     validations:
       required: true
 
@@ -16,7 +16,7 @@ body:
     id: frequencia
     attributes:
       label: Com que frequência esse processo é realizado?
-      placeholder: Ex: Diariamente às 08h, semanalmente às segundas
+      placeholder: "Ex: Diariamente às 08h, semanalmente às segundas"
     validations:
       required: false
 
@@ -24,7 +24,7 @@ body:
     id: impacto
     attributes:
       label: Qual o impacto da automação?
-      placeholder: Ex: Economia de 3h semanais, redução de erros de digitação
+      placeholder: "Ex: Economia de 3h semanais, redução de erros de digitação"
     validations:
       required: false
 
@@ -32,6 +32,6 @@ body:
     id: contexto
     attributes:
       label: Contexto adicional
-      placeholder: Ex: Existe um script ou planilha inicial que pode ser usado como base?
+      placeholder: "Ex: Existe um script ou planilha inicial que pode ser usado como base?"
     validations:
       required: false

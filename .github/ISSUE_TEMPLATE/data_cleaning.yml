@@ -19,7 +19,7 @@ body:
     id: problema
     attributes:
       label: Problema identificado
-      placeholder: Ex: Campos com nomes duplicados, uso inconsistente de maiúsculas/minúsculas
+      placeholder: "Ex: Campos com nomes duplicados, uso inconsistente de maiúsculas/minúsculas"
     validations:
       required: true
 
@@ -27,6 +27,6 @@ body:
     id: sugestao
     attributes:
       label: Sugestão de correção
-      placeholder: Ex: Padronizar todos os nomes de cliente com capitalização correta
+      placeholder: "Ex: Padronizar todos os nomes de cliente com capitalização correta"
     validations:
       required: false

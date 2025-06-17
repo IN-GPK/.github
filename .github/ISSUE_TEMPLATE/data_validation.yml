@@ -7,7 +7,7 @@ body:
     id: oque
     attributes:
       label: O que precisa ser validado?
-      placeholder: Ex: Verificar se os dados de leads da semana estão sendo carregados corretamente no BI.
+      placeholder: "Ex: Verificar se os dados de leads da semana estão sendo carregados corretamente no BI."
     validations:
       required: true
 
@@ -15,7 +15,7 @@ body:
     id: como
     attributes:
       label: Como é feita a validação atualmente?
-      placeholder: Ex: Conferência com a planilha original enviada pelo setor comercial.
+      placeholder: "Ex: Conferência com a planilha original enviada pelo setor comercial."
     validations:
       required: false
 
@@ -23,6 +23,6 @@ body:
     id: contexto
     attributes:
       label: Contexto adicional
-      placeholder: Ex: Suspeita de duplicidade em alguns registros.
+      placeholder: "Ex: Suspeita de duplicidade em alguns registros."
     validations:
       required: false

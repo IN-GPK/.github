@@ -1,7 +1,5 @@
 # 📊 Desenvolvimento Interno — Gramado Parks
 
-# **(README INCOMPLETO AINDA!!!)**
-
 
 Bem-vindo ao repositório oficial do setor de **Desenvolvimento** da **Gramado Parks**!
 
@@ -31,10 +29,18 @@ Nosso escopo de trabalho abrange:
 |----------------------|----------------------------------|
 | Rodrigo Borges       | Diretor                          |
 | Denis de Brito       | Gerente                          |
+| Ezequiel Manea       | Coordenador                      |
+| Nicodemos Velho      | DBA                              |
+| Feliciano Gauer      | Especialista de Desenvolvimento  |
+| Eder Dourador        | Desenvolvedor Senior             |
+| Gabriel Silva        | Desenvolvedor                    |
 | Günter Nejar Keller  | Analista e Desenvolvedor         |
-| Douglas Hasselbauer  | Analista de BI                   |
-| Guilherme Rissi      | Analista e Desenvolvedor         |
 | Matheus Dias         | Analista e Desenvolvedor         |
+| Maycon Cruz          | Analista e Desenvolvedor         |
+| Douglas Hasselbauer  | Especialista de BI               |
+| Fernando Soares      | Analista de BI                   |
+| Guilherme Rissi      | Analista de BI e automação       |
+
 
 ---
 

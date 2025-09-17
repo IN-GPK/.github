@@ -27,19 +27,19 @@ Nosso escopo de trabalho abrange:
 
 | Nome                 | Função                           |
 |----------------------|----------------------------------|
-| Rodrigo Borges       | Diretor                          |
-| Denis de Brito       | Gerente                          |
-| Ezequiel Manea       | Coordenador                      |
-| Nicodemos Velho      | DBA                              |
-| Feliciano Gauer      | Especialista de Desenvolvimento  |
-| Eder Dourador        | Desenvolvedor Senior             |
-| Gabriel Silva        | Desenvolvedor                    |
-| Günter Nejar Keller  | Analista e Desenvolvedor         |
-| Matheus Dias         | Analista e Desenvolvedor         |
-| Maycon Cruz          | Analista e Desenvolvedor         |
-| Douglas Hasselbauer  | Especialista de BI               |
-| Fernando Soares      | Analista de BI                   |
-| Guilherme Rissi      | Analista de BI e automação       |
+| [Rodrigo Borges]()       | Diretor                          |
+| [Denis de Brito](https://github.com/deenisbb)        | Gerente                          |
+| [Ezequiel Manea](https://github.com/ezequielmanea)       | Coordenador                      |
+| [Nicodemos Velho](https://github.com/velhonicos)      | DBA                              |
+| [Feliciano Gauer](https://github.com/gauerfc)      | Especialista de Desenvolvimento  |
+| [Eder Dourador](https://github.com/ederdourado)        | Desenvolvedor Senior             |
+| [Gabriel Silva]()        | Desenvolvedor                    |
+| [Günter Nejar Keller](https://github.com/EuSouVoce)  | Analista e Desenvolvedor         |
+| [Matheus Dias](https://github.com/MatheusRDias)         | Analista e Desenvolvedor         |
+| [Maycon Cruz](https://github.com/DevMayconCruz)          | Analista e Desenvolvedor         |
+| [Douglas Hasselbauer](https://github.com/DouglasHasselbauer)  | Especialista de BI               |
+| [Fernando Soares](https://github.com/fernandoso4res)      | Analista de BI                   |
+| [Guilherme Rissi](https://github.com/Guirissi)      | Analista de BI e automação       |
 
 
 ---

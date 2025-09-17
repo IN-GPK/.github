@@ -39,7 +39,7 @@ Nosso escopo de trabalho abrange:
 | [Maycon Cruz](https://github.com/DevMayconCruz)          | Analista e Desenvolvedor         |
 | [Douglas Hasselbauer](https://github.com/DouglasHasselbauer)  | Especialista de BI               |
 | [Fernando Soares](https://github.com/fernandoso4res)      | Analista de BI                   |
-| [Guilherme Rissi](https://github.com/Guirissi)      | Analista de BI e automação       |
+| [Guilherme Rissi](https://github.com/Guirissi)      | Analista de BI e Automações       |
 
 
 ---

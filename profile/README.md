@@ -30,7 +30,7 @@ Nosso escopo de trabalho abrange:
 | [Rodrigo Borges]()       | Diretor                          |
 | [Denis de Brito](https://github.com/deenisbb)        | Gerente                          |
 | [Ezequiel Manea](https://github.com/ezequielmanea)       | Coordenador                      |
-| [Nicodemos Velho](https://github.com/velhonicos)      | DBA                              |
+| [Nicodemos Velho](https://github.com/velhonicos)      | Desenvolvedor e DBA                         |
 | [Feliciano Gauer](https://github.com/gauerfc)      | Especialista de Desenvolvimento  |
 | [Eder Dourador](https://github.com/ederdourado)        | Desenvolvedor Senior             |
 | [Gabriel Bernardo](http://github.com/GabrielBS-lab)        | Desenvolvedor                    |

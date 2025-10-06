@@ -33,7 +33,7 @@ Nosso escopo de trabalho abrange:
 | [Nicodemos Velho](https://github.com/velhonicos)      | DBA                              |
 | [Feliciano Gauer](https://github.com/gauerfc)      | Especialista de Desenvolvimento  |
 | [Eder Dourador](https://github.com/ederdourado)        | Desenvolvedor Senior             |
-| [Gabriel Silva]()        | Desenvolvedor                    |
+| [Gabriel Bernardo](http://github.com/GabrielBS-lab)        | Desenvolvedor                    |
 | [Günter Nejar Keller](https://github.com/EuSouVoce)  | Analista e Desenvolvedor         |
 | [Matheus Dias](https://github.com/MatheusRDias)         | Analista e Desenvolvedor         |
 | [Maycon Cruz](https://github.com/DevMayconCruz)          | Analista e Desenvolvedor         |

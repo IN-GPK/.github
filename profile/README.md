@@ -40,6 +40,7 @@ Nosso escopo de trabalho abrange:
 | [Douglas Hasselbauer](https://github.com/DouglasHasselbauer) | Especialista de BI                  |          |          |
 | [Fernando Soares](https://github.com/fernandoso4res)         | Analista de BI                      | Set-2025 |          |
 | [Guilherme Rissi](https://github.com/Guirissi)               | Analista de BI e Automações         | Abr-2025 |          |
+| [Gustavo Schmitt](https://github.com/gustavodevschmitt)      | Desenvolvedor                       | Nov-2025 |          |
 | [Pedro Figueiredo](https://github.com/MixwebSolution)        | Desenvolvedor                       | Dez-2025 |          |
 | [Pedro Victor Abreu](https://github.com/Pedrovictorrr)       | Desenvolvedor                       | Jan-2026 |          |
 

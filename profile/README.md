@@ -37,7 +37,7 @@ Nosso escopo de trabalho abrange:
 | [Günter Nejar Keller](https://github.com/EuSouVoce)          | Analista e Desenvolvedor            | Ago-2024 |          |
 | ~~[Matheus Dias](https://github.com/MatheusRDias)~~          | ~~Analista e Desenvolvedor~~        | Mai-2022 | Jan-2026 |
 | [Maycon Cruz](https://github.com/DevMayconCruz)              | Analista e Desenvolvedor            | Jan-2024 |          |
-| [Douglas Hasselbauer](https://github.com/DouglasHasselbauer) | Especialista de BI                  |          |          |
+| [Douglas Hasselbauer](https://github.com/DouglasHasselbauer) | Coordenador de BI                   |          |          |
 | [Fernando Soares](https://github.com/fernandoso4res)         | Analista de BI                      | Set-2025 |          |
 | [Guilherme Rissi](https://github.com/Guirissi)               | Analista de BI e Automações         | Abr-2025 |          |
 | [Gustavo Schmitt](https://github.com/gustavodevschmitt)      | Desenvolvedor                       | Nov-2025 |          |

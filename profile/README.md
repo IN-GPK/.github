@@ -33,7 +33,7 @@ Nosso escopo de trabalho abrange:
 | [Rafael Bertoluci](https://github.com/rafabertoluci)         | Coordenador de Desenvolvimento      | Set-2026 |          |
 | ~~[Nicodemos Velho](https://github.com/velhonicos)~~         | ~~Desenvolvedor e DBA~~             | Ago-2020 | Ago-2026 |
 | ~~[Feliciano Gauer](https://github.com/gauerfc)~~            | ~~Especialista de Desenvolvimento~~ | Jan-2019 | Nov-2025 |
-| [Eder Dourador](https://github.com/ederdourado)              | Desenvolvedor                       | Nov-2023 |          |
+| [Eder Dourador](https://github.com/ederdourado)              | Desenvolvedor e Tech Lead           | Nov-2023 |          |
 | [Gabriel Bernardo](http://github.com/GabrielBS-lab)          | Desenvolvedor                       | Jul-2021 |          |
 | [Günter Nejar Keller](https://github.com/EuSouVoce)          | Analista e Desenvolvedor            | Ago-2024 |          |
 | ~~[Matheus Dias](https://github.com/MatheusRDias)~~          | ~~Analista e Desenvolvedor~~        | Mai-2022 | Jan-2026 |
